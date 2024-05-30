@@ -2,6 +2,8 @@
 
 ![terminal screen](./screenshot.png)
 
+Arch wsl on fish with enabled multilib, chaotic aur, preinstalled git and paru
+
 ## WSL
 
 install wsl if you don't have it
@@ -70,7 +72,7 @@ go to windows terminal `settings > profiles > defaults > apperance` and apply `A
 
 download arch wsl image and place to desktop
 
-[mega.nz/BeautyArch.tar](https://mega.nz/file/kU8yWBDR#--mQE6jMOosfn7D84se2JBUdH49yepqKuoIAQli5Kio)
+[mega.nz/BeautyArch.tar](https://mega.nz/file/sI81CbBC#ZmHkZ9r4y1yqMuyzLDtBlnbM4Lw1mdBHc0hmZZdx8Dg)
 
 make folder for arch distro
 
