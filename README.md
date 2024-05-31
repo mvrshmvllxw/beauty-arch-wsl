@@ -103,7 +103,15 @@ update system
 
 > sudo pacman -Syu
 
-if you have to change the username, don't forget to change the wsl user
+## Change username 
+
+> sudo usermod -l new_name old_name
+
+> sudo usermod -d /home/new_name -m new_name
+
+> su new_name
+
+don't forget to change the wsl user
 
 > nano /etc/wsl.conf
 
