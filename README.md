@@ -103,9 +103,11 @@ update system
 
 > sudo pacman -Syu
 
-make file for fish history
+enable fish history
 
 > touch ~/.fish_history
+
+> set -U fish_history fish
 
 ## Change username 
 
