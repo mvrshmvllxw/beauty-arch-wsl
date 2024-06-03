@@ -103,6 +103,10 @@ update system
 
 > sudo pacman -Syu
 
+make file for fish history
+
+> touch ~/.fish_history
+
 ## Change username 
 
 > sudo usermod -l new_name old_name
