@@ -42,7 +42,7 @@ add:
 
 mirrors
 
-    sudo pacman -S reflector
+    sudo pacman -S reflector rsync
 
     sudo reflector --verbose --latest 15 --sort rate --save /etc/pacman.d/mirrorlist
 
